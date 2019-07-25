@@ -143,9 +143,16 @@ search.addEventListener("keyup", () => {
                       card.appendChild(allInfo);
                       document.getElementById("container").appendChild(card).innerHTML;
                     } else if (enterSearch == "") {
-                        document.getElementById("container").innerHTML= "";
+                        document.getElementById("container2").style.display= "block";
                     }
                 })
             }
         }}).catch(error => console.error(error))
 })
+
+document.getElementById("login").addEventListener("click", ()=>{
+    document.getElementById("container2").style.display = "none";
+    document.getElementById("login-container").style.display = "block";
+
+
+});

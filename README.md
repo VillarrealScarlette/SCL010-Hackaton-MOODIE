@@ -17,7 +17,7 @@ Con ello presenciamos el nacimiento de diferentes plataformas de entretenimiento
 Este consumo cada vez más personalizado de contenido es una tendencia que se ha instalado en los hogares y ha modificado la manera tradicional de ver series y películas. Hoy en día puedes pausar una película, verla mientras revisas tus servicios de mensajería o RRSS. Puedes implementar maratones de contenido, invitar amigos, familia o verlas en la comodidad de tu dormitorio. Tampoco necesitas estar en una lugar fijo, ya que puedes acceder a contenido desde tu celular o tableta, puedes verlas mientras vas viajando o estés en una reunión de trabajo. Por tanto, hoy en día la prioridad es la accesibilidad.
 
 ## Inspiración.
-El logo de nuestra página **MOODIE** esta inspirado en la palabra _"mood"_ que interpreta como "estado de animo." Y _"ie"_ viene de la palabra "movie". Nuestro juego de palabras pretende plasmar como nuestras emociones y estados de animo, afectan a la hora de elegir una película. También creamos el eslogan "cruzamos tus sentimientos con películas" que responde a nuestra visión de conectar las emociones del usuario con las películas que le recomendamos.
+El logo de nuestra página **MOODIE** esta inspirado en la palabra _"mood"_ que se interpreta como "estado de animo." Y _"ie"_ viene de la palabra "movie". Nuestro juego de palabras pretende plasmar como nuestras emociones y estados de animo, afectan a la hora de elegir una película. También creamos el eslogan "cruzamos tus sentimientos con películas" que responde a nuestra visión de conectar las emociones del usuario con las películas que le recomendamos.
 
 Para nuestra página nos inspiramos principalmente en el diseño y algoritmo innovador de [Spotify](https://www.spotify.com/cl/about-us/contact/) que adapta tus búsquedas según tu perfil y gustos personales, historias de búsqueda o preferencias. Además la particularidad de poder escoger listas musicales según "estados de animos" o "situaciones" que hace al usuario sorprenderse por la versatilidad de la aplicación. Por ello en **MOODIE** también te ofrecemos listas de películas dividas en 8 categorías de estados de animo, donde tu como usuario puedes elegir el que más te haga sentido.
 
@@ -27,19 +27,18 @@ Finalmente para diseño y colores nos inspiramos en   [Netflix](https://www.netf
 
 ## Definición del Producto y  perfil del Usuario.
 
-**MOODIE** es una página web, que te entrega recomendaciones de visualización de películas basadas en las mejores 4 evaluadas por IMDb, a su vez estas recomendaciones se dividen en 8 categorías. Estas categorías se asocian a estados de ánimos de los usuarios, dejando a libre elección la decisión de cual elegir. Los estados de ánimos y los géneros de películas que contienen fueron elegidos luego de ser testeados con los usuarios. Y están pensados desde la psicología y como nuestros estados de ánimos influyen directamente en las decisiones que tomamos.
+**MOODIE** es una página web, que te entrega recomendaciones de películas basadas en la excelencia. Para ello por categoría en el modelo demo hay 4  recomendación que corresponden a las mejores evaluadas por el ranking de IMDb, estas son filtradas a través de la elección de 8 categorías que se caracterizan por representar estados de animo, estas son: Adventurous, Cursi Time, Happiness, Melancholic, Mysterios, Nerd, Fanciful, Dark. Estas categorías se asocian a estados de ánimos que puedan tener los usuarios dejando a libre elección cual de esas recomendación quiere ver, las categorías se filtran por géneros asociados: Adventurous: Acción, Cursi Time: Romance, Happiness: Comedia, Melancholic: Drama, Mysterios: Misterio, Nerd: Biografía, Fanciful: Ciencia Ficción, Dark: Terror. . Los estados de ánimos y los géneros de películas que contienen fueron elegidos luego de ser investigados y testeados con usuarios. Están pensados desde la psicología y en los estudios que señalan que nuestros estados de ánimos influyen directamente en las decisiones que tomamos a la hora de consumir un producto o marca.
 ## Las emociones y la toma de decisiones
 
-El  **estado de ánimo y las emociones**  no solo influyen en los procesos de toma de decisiones sino que a veces los determinan completamente. Aprender cómo funcionamos en estos casos puede ayudarnos a ser más objetivos y prácticos al respecto. Esto depende de las emociones y si las enfocamos de manera positiva o negativa, si somos más impulsivos o más introspectivos. Pero en cualquiera de los casos, estas influyen en que decidimos hacer o en este caso, en que optamos ver.
+El  **estado de ánimo y las emociones**  no solo influyen en los procesos de toma de decisiones sino que a veces los determinan completamente.  También dependerá de nuestras emociones y el cómo las estamos enfocados; _si las enfocamos de manera positiva o negativa_. Si somos más impulsivos o más introspectivos también guiará nuestros gustos y decisiones. Es por ello, que intentamos llegar a todo tipo de público y personalidades intentando contener estados de ánimos generales y a largo plazo que estas opciones vayan creciendo.
 
 ###  Quiénes son los principales usuarios de producto.
-Nuestros usuarios se comprenden en hombres y mujeres mayores de 14 años, que sean consumidores frecuentes u ocasionales de películas y series vía streaming.
-
+Nuestros usuarios principalmente comprenden en hombres y mujeres mayores de 14 años, que son consumidores de películas y series vía streaming. Y para cualquier consumidor sobre 14 años que desee buscar referencias sobre una película.
 ### Cuál es el objetivo del producto.
 Responder a la necesidad de recibir contenido personalizado a la hora de elegir una película, el cual es influenciado por el estado de ánimo, facilitando la elección del usuario a la hora de elegir que ver y por qué.
 
 ### Qué problema resuelve.
-Muchas veces perdemos mucho tiempo a la hora de ver una película por no poder elegir que ver u otras veces sabemos que tipo de películas nos gustaría ver según nuestro estado de ánimo, pero no donde o como buscarlas. MOODIE responde a estas necesidades, ahorra tiempo, es empatica con el usuario y no tiene costo alguno.
+Muchas veces perdemos tiempo a la hora de ver una película por no poder elegir que ver entre tantas opciones disponibles en la web. Otras veces sabemos exactamente como nos sentimos y nos gustaría ver algo acorde a ese sentimiento pero no sabemos por donde empezar a buscar. MOODIE soluciona este problema: entregando recomendaciones en base a tus estados de animo. Además incluye filtros de búsqueda donde se muestra las películas mejor evaluadas del cine. MOODIE te ahorra tiempo, es cercana, empatica y no tiene costo alguno.
 
 
 ## Consideraciones generales del proyecto
@@ -55,7 +54,7 @@ El trabajo se implemento en base a metodología ágil orientada a historias que 
 El proyecto se realizó en base a _Historias de Usuario_, se avanzaba en cuanto a código y diseño a la par con el objetivo de cada _Historia de Usuario_. **"MOODIE"** contó con 3 historias de Usuario, te las mostramos a continuación:
 
 ### Historia de Usuario 1.
-YO, COMO consumidor habitual de películas, QUIERO poder acceder a una página web que me recomiende películas, PARA ahorrar tiempo y llegar a contenido adecuado a mis intereses.
+Yo, como consumidor habitual de películas quiero poder acceder a una página web que me recomiende películas para ahorrar tiempo y llegar a contenido adecuado a mis intereses.
 
         Definifición de terminado:
         Una página web inicial, con HTML, CSS y JS
@@ -63,7 +62,7 @@ YO, COMO consumidor habitual de películas, QUIERO poder acceder a una página w
         de la página y contenga una barra de búsqueda.
 
 ### Historia de Usuario 2.
-YO, COMO consumidor habitual de películas, QUIERO poder acceder a recomendación especificas de películas, PARA poder elegirlas según mi estado de animo .
+Yo, como consumidor habitual de películas quiero poder acceder a recomendación especificas de películas para poder elegirlas según mi estado de animo .
 
         Definifición de terminado:
         Una página con HTML, CSS y JS
@@ -72,12 +71,11 @@ YO, COMO consumidor habitual de películas, QUIERO poder acceder a recomendació
 
 
 ### Historia de Usuario 3.
-YO, COMO consumidor habitual de películas, QUIERO poder acceder a una ficha con información de las películas, PARA informarme sobre su año de filmación, género y titulo.
+Yo como consumidor habitual de películas quiero poder acceder a una ficha con información de las películas para informarme sobre reseña su año de filmación, género y titulo.
 
         Definifición de terminado:
-        Crear una ficha de película con HTML, CSS y JS
-        que contenga su nombre, reseña, año de filmación
-         y género.
+        Crear una ficha de película que contenga su nombre,
+         reseña, año de filmación y género.
 
 
 
@@ -134,7 +132,7 @@ De los resultados pudimos destacar que la categoría "Nerd Time" y "Rude" produc
 ## Testing con prototipo de alta fidelidad
  Se utilizó un prototipo realizado con Figma para poder ser testeado con los usuarios, se recibio _"feedback"_ de cosas que debíamos solucionar en el demo antes de llevarlo a código. Como incluir un buscador más notorio y una cuadro de login.
 
-En los _"feedback"_ notamos que debíamos además colocar más contraste en los botones de cada categoría, ya que a simplemente el usuario no entiende que las imágenes son botones. Se obtuvo"feedback"_ positivo sobre las elecciones de diseño, colores y funcionalidad general de la página, con lo que se comenzó a trabajar en la entrega final.
+Con los _"feedback"_ obtenidos notamos que debíamos además colocar más contraste en los botones de cada categoría, ya que a simplemente el usuario no entiende que las imágenes son botones. Se obtuvo"feedback" positivo sobre las elecciones de diseño, colores y funcionalidad general de la página, con lo que se comenzó a trabajar en la entrega final.
 
 
 
@@ -164,8 +162,15 @@ d) 5 o +
 
 Acá te dejamos un video de una entrevista  a usuario [Youtube](https://www.youtube.com/watch?v=_kyiyCzkVxw&feature=youtu.be), puedes verla cuando gustes.
 
-Como resultado de esta entrevista: detectamos que los usuarios ven en promedio 2 películas semanalmente, que demoran mucho tiempo en elegir qué ver y a veces por lo mismo terminan deciciendo no ver nada. También qué los aspectos más relevantes a la hora de buscar información sobre una película son: el título, el año, el director y la reseña.
+Como resultado de esta entrevista: detectamos que los usuarios ven en promedio 2 películas semanalmente, que demoran mucho tiempo en elegir qué ver y a veces por lo mismo terminan decidiendo no ver nada. También qué los aspectos más relevantes a la hora de buscar información sobre una película son: el título, el año, el director y la reseña.
 
+# Proyecciones de MOODIE
+
+Al ser un proyecto demo no pudimos incluir todas las funciones que consideremos necesarias en MOODIE. La idea a largo plazo, es darles a las usuarios la opción de registrarse, llevar un registro de las listas de estados de ánimos preferentes, poder personalizar esto en base a sus preferencias y búsquedas habituales y tener la opción de crear nuestra propias listas con estados de ánimos creados por el usuario. Que estas listas también puedan exportarse y compartirse. Agregar series y contenido adicional como podcast.
+
+Estas lista de recomendación podrás ser compartidas en RRSS, o por otras vías en dispositivos inteligentes, inspirándonos en el diseño de las listas de Spotify. La idea es llevar MOODIE a un nivel más allá, donde se generen comunidades y usuarios fieles al servicio, ya que les permitirá mostrar parte de ellos sus gustos e intereses a través de lo que consumen.
+
+Nuestra meta es que MOODIE sea una interfaz adaptativa a cada usuario, donde se puedan compartir lista de recomendación de películas o contenido creadas por los mismos usuarios.
 
 # Equipo de trabajo y labores de desarrollo.
 Para resolver este desafío nuestro equipo se dividió en dos perfiles: _Front-End-Developers y UX Designer._ Con dos Front y una UX. De igual forma las tareas y decisiones de diseño fueron en consenso de todo el equipo. Hubo sinergia en el trabajo de cada integrante, siempre buscando un buen resultado final.

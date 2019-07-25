@@ -24,9 +24,7 @@ height: 20px;
 body {
     background-color: #151F2C;
 }
-.search {
-    background-color: #063C4D;
-}
+
 .mood-comedy {
     color: white;
     text-align: center;
@@ -68,14 +66,58 @@ h2 {
     color: #F5F5F5;
 }
 #redes-sociales {
-    height: 60px;
+    height: 70px;
 }
 #sticky-footer {
-  background-color: #063C4D;
+  background-color: rgba(6, 60, 77, 0.103);
 }
-small {
+#follow-us {
     color: white;
+    font-size: 20px;
 }
 .form-control {
     border-radius: 7px;
 }
+.login-img img {
+    width:40%; max-height:20%;
+}
+.login{
+   margin-right: 40px;
+   font-size: 20px;
+}
+#login-container{
+    display:none;
+}
+
+.image {
+    padding: 2px;
+      text-align: center;
+      -webkit-animation: shadow-drop-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+              animation: shadow-drop-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  }
+  @-webkit-keyframes shadow-drop-center {
+    0% {
+      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+    100% {
+      box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+    }
+  }
+  @keyframes shadow-drop-center {
+    0% {
+      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+    100% {
+      box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+    }
+  }
+  .welcome{
+    align-content: flex-start;
+    text-align: center;
+    color: #F5F5F5;
+    font-size: 38px;
+    font-weight: lighter;
+    padding-top: 30px;
+}
+
+Got it, thanks!Thanks a lot.Thank you!
