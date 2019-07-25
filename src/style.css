@@ -12,7 +12,7 @@
  display: flex;
 }
 #img-logo {
-    height: 80px;
+    height: 70px;
     background: transparent;
 }
 .navbar-form {
@@ -27,9 +27,6 @@ body {
 
 .mood-comedy {
     color: white;
-    text-align: center;
-}
-.image {
     text-align: center;
 }
 nav {
@@ -82,8 +79,8 @@ h2 {
     width:40%; max-height:20%;
 }
 .login{
-   margin-right: 40px;
-   font-size: 20px;
+   margin-right: 80px;
+   font-size: 20px;  
 }
 #login-container{
     display:none;
@@ -119,5 +116,12 @@ h2 {
     font-weight: lighter;
     padding-top: 30px;
 }
-
-Got it, thanks!Thanks a lot.Thank you!
+.text1{
+  font-weight: 500;
+  font-size: 38px;
+}
+#search{
+border-radius: 30px;
+width: 420px;
+opacity: 0.9;
+}

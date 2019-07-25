@@ -149,8 +149,8 @@ search.addEventListener("keyup", () => {
             }
         }}).catch(error => console.error(error))
 })
-
 document.getElementById("login").addEventListener("click", ()=>{
+    document.getElementById("container").style.display = "none";
     document.getElementById("container2").style.display = "none";
     document.getElementById("login-container").style.display = "block";
 
