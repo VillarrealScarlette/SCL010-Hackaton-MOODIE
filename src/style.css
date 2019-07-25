@@ -1,0 +1,81 @@
+.navbar_nav {
+    background-color:  #151F2C;
+    flex: 1 1 auto;
+}
+.nav-item {
+ display: flex;
+ flex-flow: row nowrap;
+ justify-content: flex-end;
+}
+.nav-item a {
+ list-style: none;
+ display: flex;
+}
+#img-logo {
+    height: 80px;
+    background: transparent;
+}
+.navbar-form {
+height: 20px;
+}
+#container {
+    background-color: #151F2C;
+}
+body {
+    background-color: #151F2C;
+}
+.search {
+    background-color: #063C4D;
+}
+.mood-comedy {
+    color: white;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+nav {
+    display:flex;
+    flex-flow: row nowrap;
+}
+#container {
+    display:none;
+}
+.allInfo {
+    width: 350px;
+    color:white;
+}
+h4 {
+    font-size: 20px;
+}
+h2 {
+    color:rgb(128, 27, 49);
+}
+.moodieCard  {
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2em;
+    margin: 4em;
+    background-color: rgba(255, 255, 255, 0.027);
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.mood {
+    border-radius: 7px;
+    background: transparent;
+    border-color: #f5f5f5;
+    color: #F5F5F5;
+}
+#redes-sociales {
+    height: 60px;
+}
+#sticky-footer {
+  background-color: #063C4D;
+}
+small {
+    color: white;
+}
+.form-control {
+    border-radius: 7px;
+}
