@@ -34,7 +34,7 @@ const movies = (arrSelected) => {
     }
 //Obtener info de la data
 const callData = (title) => {
-    fetch("http://www.omdbapi.com/?t=" + title + "&apikey=c4157411")
+    fetch("http://www.omdbapi.com/?t=" + title + "&apikey=e4c05895")
     .then(res => res.json())
     .then(data => {
         dataMoodie = {
@@ -100,7 +100,7 @@ search.addEventListener("keyup", () => {
     //Valor del string ingresado por el usuario
     let enterSearch = search.value;
     //Dar el valor ingresado a la URL para encontrar coincidencias
-    fetch(`http://www.omdbapi.com/?apikey=c4157411&s=${enterSearch}`)
+    fetch(`http://www.omdbapi.com/?apikey=e4c05895&s=${enterSearch}`)
     .then(res => res.json())
     .then(data => {
         if (data.Response !== "False") {
@@ -108,7 +108,7 @@ search.addEventListener("keyup", () => {
             document.getElementById("container").style.display="block";
             document.getElementById("container").innerHTML = "";
           for (let i = 0; i < data.Search.length; i++) {
-              fetch("http://www.omdbapi.com/?apikey=c4157411&i="+encodeURI(data.Search[i].imdbID))
+              fetch("http://www.omdbapi.com/?apikey=e4c05895&i="+encodeURI(data.Search[i].imdbID))
               .then(secondRes => secondRes.json())
               .then(secondData => {
                   if (secondData.Type === "movie") {
